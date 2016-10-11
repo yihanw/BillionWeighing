@@ -1,0 +1,189 @@
+@charset "UTF-8";
+p, li {
+  font-size: 15px; }
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  color: white; }
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #0066cc;
+  z-index: 9999;
+  border: 0; }
+  .navbar .navbar-header .navbar-brand {
+    padding-left: 50px;
+    color: white; }
+  .navbar .navbar-header .navbar-brand:hover {
+    color: white; }
+  .navbar .navbar-collapse ul.navbar-right {
+    padding-right: 50px; }
+    .navbar .navbar-collapse ul.navbar-right a {
+      color: white; }
+    .navbar .navbar-collapse ul.navbar-right li:hover {
+      background-color: white; }
+      .navbar .navbar-collapse ul.navbar-right li:hover a {
+        color: #0066cc; }
+    .navbar .navbar-collapse ul.navbar-right li.active a {
+      color: #0066cc;
+      background-color: white; }
+    .navbar .navbar-collapse ul.navbar-right .dropdown-menu a {
+      color: #0066cc; }
+    .navbar .navbar-collapse ul.navbar-right .dropdown-menu li.active {
+      color: white;
+      background-color: #0066cc; }
+
+#intro {
+  padding-top: 50px;
+  height: 400px;
+  color: #fff;
+  background-color: #0066cc;
+  text-align: center; }
+  #intro h1 {
+    padding-top: 80px;
+    padding-bottom: 20px;
+    font-size: 50px; }
+
+#关于我们 {
+  padding-top: 50px;
+  padding-left: 50px;
+  height: 550px; }
+  #关于我们 h1 {
+    padding: 20px 0; }
+  #关于我们 div.outter {
+    position: relative; }
+    #关于我们 div.outter div.intro {
+      width: 60%;
+      position: absolute;
+      padding: 20px; }
+    #关于我们 div.outter img {
+      position: absolute;
+      margin-left: 65%; }
+
+#电子皮带秤 {
+  padding-top: 30px;
+  padding-left: 50px;
+  height: 650px;
+  background-color: #e6e6e6; }
+  #电子皮带秤 h1 {
+    padding: 20px 0; }
+  #电子皮带秤 div.outter {
+    position: relative;
+    padding-left: 20px;
+    padding-bottom: 20px; }
+    #电子皮带秤 div.outter img {
+      padding-top: 50px;
+      padding-left: 40px;
+      position: absolute; }
+    #电子皮带秤 div.outter div.intro {
+      position: absolute;
+      margin-left: 400px; }
+
+#定量给料机 {
+  padding-top: 30px;
+  padding-left: 70px;
+  height: 500px; }
+  #定量给料机 h2 {
+    padding-top: 30px; }
+  #定量给料机 div.outter {
+    position: relative;
+    padding: 20px; }
+    #定量给料机 div.outter div.intro {
+      position: absolute;
+      padding-left: 20px;
+      weight: 60%; }
+    #定量给料机 div.outter img {
+      width: 300px;
+      height: auto;
+      position: absolute;
+      margin-left: 60%; }
+
+#称重车 {
+  padding-top: 50px;
+  padding-left: 70px;
+  height: 550px;
+  background-color: #e6e6e6; }
+  #称重车 h2 {
+    padding-top: 30px; }
+  #称重车 div.outter {
+    position: relative;
+    padding: 20px; }
+    #称重车 div.outter img {
+      width: 350px;
+      height: auto;
+      position: absolute;
+      padding-left: 20px; }
+    #称重车 div.outter div.intro {
+      position: absolute;
+      margin-top: 270px;
+      margin-left: 40px; }
+
+#水泥混布料机 {
+  padding-top: 30px;
+  padding-left: 70px;
+  height: 550px; }
+  #水泥混布料机 h2 {
+    padding-top: 30px; }
+  #水泥混布料机 div.outter {
+    position: relative;
+    padding: 20px; }
+    #水泥混布料机 div.outter div.intro {
+      position: absolute;
+      padding-left: 20px; }
+    #水泥混布料机 div.outter img {
+      width: 300px;
+      height: auto;
+      position: absolute;
+      margin-top: 100px;
+      margin-left: 20px; }
+
+#钛及钛合金自动称重及混料系统 {
+  padding-top: 50px;
+  padding-left: 70px;
+  height: 650px;
+  background-color: #e6e6e6; }
+  #钛及钛合金自动称重及混料系统 h2 {
+    padding-top: 30px; }
+  #钛及钛合金自动称重及混料系统 div.outter {
+    position: relative;
+    padding: 20px; }
+    #钛及钛合金自动称重及混料系统 div.outter div.intro {
+      position: absolute;
+      padding-left: 20px; }
+      #钛及钛合金自动称重及混料系统 div.outter div.intro li {
+        padding: 5px; }
+    #钛及钛合金自动称重及混料系统 div.outter img {
+      width: 300px;
+      height: auto;
+      position: absolute;
+      margin-left: 65%; }
+    #钛及钛合金自动称重及混料系统 div.outter img#back {
+      margin-top: 150px; }
+
+#加入我们 {
+  padding-top: 50px;
+  padding-left: 70px;
+  height: 850px; }
+  #加入我们 h2 {
+    padding-top: 30px; }
+  #加入我们 div {
+    padding: 20px;
+    position: relative; }
+    #加入我们 div #电气 {
+      width: 45%;
+      position: absolute; }
+    #加入我们 div #机械 {
+      position: absolute;
+      width: 45%;
+      margin-left: 48%; }
+    #加入我们 div #销售 {
+      position: absolute;
+      margin-top: 280px; }
+
+footer {
+  height: 130px;
+  background-color: #0066cc;
+  color: white;
+  padding: 20px; }
+
+/*# sourceMappingURL=stylesheet.css.map */
