@@ -1,3 +1,3 @@
-website built for Billion Weighing Ltd.
+##A website built for Billion Weighing Ltd.
 
-billionweighing.com/
+http://billionweighing.com/
